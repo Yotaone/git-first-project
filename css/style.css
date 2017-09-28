@@ -8,3 +8,8 @@ h1, p {
     border: 3px solid green;
     padding: 20px;
 }
+
+.container {
+    margin: 0 auto;
+    width: 70%;
+}
