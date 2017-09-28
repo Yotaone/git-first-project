@@ -1,9 +1,10 @@
 body {
-    background-color: lightgray;
+    background-color: red;
 
 }
 
 h1, p {
     color: yellow;
     border: 3px solid green;
+    padding: 20px;
 }
