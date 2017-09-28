@@ -1,10 +1,10 @@
 body {
-    background-color: red;
+    background-color:yellow;
 
 }
 
 h1, p {
-    color: white;
+    color: green;
     border: 10px solid green;
     padding: 20px;
 }
@@ -12,5 +12,5 @@ h1, p {
 .container {
     margin: 0 auto;
     width: 70%;
-    background-color: blue;
+    background-color: red;
 }
